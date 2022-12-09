@@ -89,7 +89,6 @@ A counter-argument to this recommendation could be that some schools may benefit
 ---
 - [ACT.org](https://www.act.org/content/act/en/products-and-services/the-act/scores/understanding-your-scores.html)
 - [College Vine](https://blog.collegevine.com/here-are-the-average-sat-scores-by-state/)
-- [Dropping SAT and ACT requirements from CNN](Dropping SAT and ACT requirements)
 - [Compass Prep](https://www.compassprep.com/college-profiles/)
 - [A History of the SAT and ACT by Minot Daily News](https://www.minotdailynews.com/news/local-news/2017/04/a-brief-history-of-the-sat-and-act/)
 - [National Center for Education Statistics](https://nces.ed.gov/programs/digest/current_tables.asp)

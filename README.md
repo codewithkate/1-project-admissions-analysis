@@ -39,10 +39,10 @@ This project aims to evaluate the relationships amongst university admissions fa
 
 #### Data Dictionary
 ---
-|Feature|Type|Dataset|Description|
-|---|---|---|---|
-|accept_rate|float|College Admissions|Average acceptance rate|
-|act_q1|float|College Admissions|Admitted Students 
+|Feature|Type|Dataset|
+|---|---|---|
+|accept_rate|float|College Admissions|
+|act_q1|float|College Admissions|
 |act_q2|float|College Admissions|
 |composite|float|ACT/SAT|
 |ebrw|integer|SAT

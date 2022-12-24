@@ -1,4 +1,4 @@
-# Project 1: Standardized Test Analysis
+# Analyzing Standards in the Admissions Process
 
 ## Overview
 - [Background](#Background)
